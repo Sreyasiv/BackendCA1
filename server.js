@@ -1,6 +1,6 @@
 const express=require("express");
 
-const app=express.json()
+const app.use=express.json()
 
 const PORT=3000
 
